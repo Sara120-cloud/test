@@ -1,0 +1,10 @@
+---
+subtitle: TESTE
+header-left: TESTE DE CABEÇALHO
+date: v1.0.0 (SET/2020)
+eletra-options-file: ../docs-template/user-manual-options.yaml
+eletra-out-pdf: '../out/"Arquivo Teste".pdf'
+eletra-out-html: '../out/"Arquivo Teste".html'
+eletra-files: [Arquivo1.md,
+Arquivo2.md]
+...
